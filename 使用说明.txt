@@ -1,0 +1,4 @@
+1.jetbrains-monokai-sublime-master.zip
+  为sublime的汉化包解压导入里面的压缩包
+2.resources_cn.jar
+  为汉化包放到lib目录下重启即可
